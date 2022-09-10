@@ -35,11 +35,6 @@ I love to code with HTML5, REACT, and design with FIGMA
 
 <p align="left"> <a href="https://www.facebook.com/spencer.teel" target="_blank" rel="noreferrer"><img src="https://github.com/steel007/profileme-dev/blob/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.instagram.com/steel007blue/" target="_blank" rel="noreferrer"><img src="https://github.com/steel007/profileme-dev/blob/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/spencerteel" target="_blank" rel="noreferrer"><img src="https://github.com/steel007/profileme-dev/blob/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<p align="left"> 
-![Twitter Follow](https://img.shields.io/twitter/follow/spencerteel?color=%231DA1F2&logo=twitter&style=for-the-badge)
-</p>
 
 
 <b>My GitHub Stats</b>
