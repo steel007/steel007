@@ -27,7 +27,7 @@ I love to code with HTML5, REACT, and design with FIGMA
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://github.com/steel007/profileme-dev/blob/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://github.com/steel007/profileme-dev/blob/main/public/icons/skills/photoshop.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://github.com/steel007/profileme-dev/blob/main/public/icons/skills/aave-colored.svg" width="36" height="36" alt="After Effects" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://github.com/steel007/profileme-dev/blob/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://github.com/steel007/profileme-dev/blob/main/public/icons/skills/premierepro.svg" width="36" height="36" alt="Premiere Pro" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://github.com/steel007/profileme-dev/blob/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
