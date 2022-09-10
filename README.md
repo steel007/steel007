@@ -37,6 +37,11 @@ I love to code with HTML5, REACT, and design with FIGMA
 
 ### Badges
 
+<p align="left"> 
+![Twitter Follow](https://img.shields.io/twitter/follow/spencerteel?color=%231DA1F2&logo=twitter&style=for-the-badge)
+</p>
+
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/steel007"><img src="https://github-readme-stats.vercel.app/api?username=steel007&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="steel007's GitHub stats" /></a>
