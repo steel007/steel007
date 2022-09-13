@@ -8,7 +8,6 @@ I love to code with HTML5, REACT, and design with FIGMA
 
 * 🌍  I'm based in Houston, Texas
 * ✉️  You can contact me at [spencer@spencerteel.com](mailto:spencer@spencerteel.com)
-* 🚀  I'm currently working on [Recipe](http://recipe.com)
 * 🧠  I'm learning a new framework
 * 🤝  I'm open to collaborating on interesting project designs
 
