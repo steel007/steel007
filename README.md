@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Spencer Teel
 ====================================================================================================================================
 
-Front End Developer
+Front End Developer and SharePoint Consultant
 -------------------
 
-I love to code with HTML5, REACT, and design with FIGMA
+I love to code with HTML5, JavaScript, and design with FIGMA
 
 * 🌍  I'm based in Houston, Texas
 * ✉️  You can contact me at [spencer@spencerteel.com](mailto:spencer@spencerteel.com)
